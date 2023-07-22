@@ -1,14 +1,14 @@
-# Welcome to the DnD game!
+# Welcome to the DnD Game!
 ## Background
-We want to create a DnD game using Unity.
+We aim to create a DnD game using Unity.
 
 ## Code
-We dont got no code yet
-We dont get paid
+We don't have any code yet.
+We don't get paid.
 
-## basic concept
-we want to make a Dungeons and Dragons game Interface wich can be customisable by the Player.
+## Basic Concept
+We want to develop a Dungeons and Dragons game interface, which can be customized by the player.
 
-The Player should get the option to customize his health, stats and items.
+The player should have the option to customize their health, stats, and items.
 
-Its necassary to have one Player wich is the "leader(DungeonMaster)" of the Game, this Person can also create the map, spawn enemys and tells the story the Players are in.
+It's necessary to designate one player as the "Leader (Dungeon Master)" of the game. This individual is also responsible for creating the map, spawning enemies, and crafting the narrative that the players engage in.
